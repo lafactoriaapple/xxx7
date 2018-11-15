@@ -12,9 +12,8 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Ahora implementamos la rama de pruebas
-        print("Estoy en la rama de pruebas")
-        
+        // Este es el ViewController de la rama master
+        print("Estoy en la rama master")
     }
 
 
