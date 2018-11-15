@@ -14,6 +14,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Este es el ViewController de la rama master
         print("Estoy en la rama master")
+        // Este es el código de partida
+        // Ahora desarrollamos la nueva funcionalidad en la rama
+        print("Nueva funcionalidad en la rama")
     }
 
 
